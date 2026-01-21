@@ -2,15 +2,18 @@ import { initializeApp } from "firebase/app";
 import { initializeFirestore } from "firebase/firestore";
 
 // 👇 PUNE DATELE REALE AICI (doar pentru test)
+// Your web app's Firebase configuration
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyB7GUNQER2jkCxWGzDgrxkwje-NjKf3KE4",
-  authDomain: "shopchat-48c0a.firebaseapp.com",
-  projectId: "shopchat-48c0a",
-  storageBucket: "shopchat-48c0a.firebasestorage.app",
-  messagingSenderId: "893741054544",
-  appId: "1:893741054544:web:2c6222ee995c6a5a9daf55",
-  measurementId: "G-CW37R6H1QJ"
+  apiKey: "AIzaSyCmBD49PirBmTDsHzurMVAG3-ugl7ECmyY",
+  authDomain: "shop-chat-f4465.firebaseapp.com",
+  projectId: "shop-chat-f4465",
+  storageBucket: "shop-chat-f4465.firebasestorage.app",
+  messagingSenderId: "493442886656",
+  appId: "1:493442886656:web:9acc078e16a0abe3c43ce5",
+  measurementId: "G-RRQF68JN3T"
 };
+
 const app = initializeApp(firebaseConfig);
 
 // Păstrăm setarea pentru conexiune stabilă
