@@ -1,19 +1,5 @@
 APP URL - https://my-shop-application.netlify.app/
 
-API Swagger Documentation - https://my-shop-app-fxdf.onrender.com/swagger-ui/index.html#/
-
-## Documentație:
-
-- [REACT Documentation site](https://alexandrugh.github.io/react-project-doc/)
-- [Project requirements next steps](https://alexandrugh.github.io/AC_Inginerie_Software_2025-2026/)
-- [Full Project and interview documentation](https://alexandrugh.github.io/Shop-Project-Documentation/)
-- [React video tutorial 1](https://www.youtube.com/watch?v=CgkZ7MvWUAA&t=15397s)
-- [React video tutorial 2](http://youtube.com/watch?v=G6D9cBaLViA&t=4513s)
-- [CRUD API Documentation](https://blog.stoplight.io/crud-api-design)
-
-
-## Linkuri softuri necesare:
-
 ### LOCAL
 - [React npm](https://nodejs.org/dist/v24.12.0/node-v24.12.0-x64.msi)
 - [Redis Cache](https://github.com/tporadowski/redis/releases)
