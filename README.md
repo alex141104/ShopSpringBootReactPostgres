@@ -1,4 +1,4 @@
-APP URL - https://my-shop-application.netlify.app/
+APP URL - https://shop-alexandru.netlify.app/
 
 ### LOCAL
 - [React npm](https://nodejs.org/dist/v24.12.0/node-v24.12.0-x64.msi)
